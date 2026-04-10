@@ -18,3 +18,21 @@ View your app in AI Studio: https://ai.studio/apps/1e6ec972-b419-496f-a108-f2bec
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+# AgriBridge AI
+
+An AI-powered agricultural assistant designed to close the extension service gap for smallholder farmers in West Africa.
+
+### hat it does:
+- Helps farmers diagnose crop diseases
+- Provides climate-smart planting advice
+- Delivers actionable farming guidance in real time
+
+### Built for real-world use:
+- Multilingual: English, Pidgin, Yoruba, Hausa, Igbo, French
+- Offline-first: works in low-connectivity rural areas
+- Powered by localized knowledge + AI
+
+## The goal?:
+Closing the "Extension Gap" for West African Smallholder Farmers.
