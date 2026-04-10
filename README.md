@@ -19,7 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/1e6ec972-b419-496f-a108-f2bec
 3. Run the app:
    `npm run dev`
 
-
+---
 # AgriBridge AI
 
 An AI-powered agricultural assistant designed to close the extension service gap for smallholder farmers in West Africa.
